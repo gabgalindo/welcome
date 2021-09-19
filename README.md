@@ -1,5 +1,5 @@
 👋 Hi, I’m @palmgalindo
-👀 I’m interested in ¿artificial neural networks (ANNs)
+👀 I’m interested in artificial neural networks (ANNs)
 Looking to collaborate on unity gamification philosophy/psycology projects
 - 📫 https://linktr.ee/tonksflipp
 
